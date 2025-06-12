@@ -1,0 +1,14 @@
+﻿GL.obj : error LNK2019: unresolved external symbol glutInit referenced in function main
+GL.obj : error LNK2019: unresolved external symbol glutInitDisplayMode referenced in function main
+GL.obj : error LNK2019: unresolved external symbol glutInitWindowSize referenced in function main
+GL.obj : error LNK2019: unresolved external symbol glutMainLoop referenced in function main
+GL.obj : error LNK2019: unresolved external symbol glutCreateWindow referenced in function main
+GL.obj : error LNK2019: unresolved external symbol glutPostRedisplay referenced in function "void __cdecl timer(int)" (?timer@@YAXH@Z)
+GL.obj : error LNK2019: unresolved external symbol glutSwapBuffers referenced in function "void __cdecl display(void)" (?display@@YAXXZ)
+GL.obj : error LNK2019: unresolved external symbol glutDisplayFunc referenced in function main
+GL.obj : error LNK2019: unresolved external symbol glutReshapeFunc referenced in function main
+GL.obj : error LNK2019: unresolved external symbol glutTimerFunc referenced in function "void __cdecl timer(int)" (?timer@@YAXH@Z)
+GL.obj : error LNK2019: unresolved external symbol glutSolidSphere referenced in function "void __cdecl drawLight(float,float,float,float)" (?drawLight@@YAXMMMM@Z)
+GL.obj : error LNK2019: unresolved external symbol glutSolidCube referenced in function "void __cdecl drawBox(void)" (?drawBox@@YAXXZ)
+C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Auxiliary\VS\lib\x64\glut32.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+S:\vscomunity\GL\x64\Debug\GL.exe : fatal error LNK1120: 12 unresolved externals

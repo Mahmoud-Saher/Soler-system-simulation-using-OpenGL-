@@ -1,0 +1,15 @@
+﻿  GL.cpp
+S:\vscomunity\my own progect\GL\GL.cpp(271,23): warning C4018: '<': signed/unsigned mismatch
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_glut.cpp
+  imgui_impl_opengl2.cpp
+  imgui_impl_opengl3.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  stb.cpp
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  GL.vcxproj -> S:\vscomunity\my own progect\Debug\GL.exe
